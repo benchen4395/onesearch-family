@@ -1,0 +1,6 @@
+[
+  {
+    "instruction": "用户当前搜索query为<小孩玩具大全儿童玩具>，对应id为<xx><xx><xx><xx><xx>，用户为50+岁男性，id为{short_sid + long_sid}，最近搜索query有<脉适康静脉曲张冷敷凝胶><衣物><女靴子2024年爆款秋季><男士裤子品牌正品><水上乐园泳衣大码显瘦遮肉女>，历史交互商品id有<xx><xx><xx><xx><xx>和<xx><xx><xx><xx><xx>和<xx><xx><xx><xx><xx>和<xx><xx><xx><xx><xx>和<xx><xx><xx><xx><xx>，相关的商品关键词有<儿童益智拼图><幼儿早教积木><卡通毛绒玩具><动画周边手办><3D拼装模型>，请给出合适的商品id：",
+    "output": "<xx><xx><xx><xx><xx>"
+  }
+]
