@@ -183,3 +183,32 @@ Extends standard pairwise DPO to **listwise (S-DPO)** with multiple negatives pe
 ## Data Format Examples
 
 See [`dataset_examples.md`](dataset_examples.md) for input/output examples across all SFT stages.
+
+---
+## Citation
+
+### [OneSearch-V1](https://arxiv.org/abs/2509.03236)
+```
+@misc{chen2025onesearchpreliminaryexplorationunified,
+      title={OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search}, 
+      author={Ben Chen and Xian Guo and Siyuan Wang and Zihan Liang and Yue Lv and Yufei Ma and Xinlong Xiao and Bowen Xue and Xuxin Zhang and Ying Yang and Huangyu Dai and Xing Xu and Tong Zhao and Mingcan Peng and Xiaoyang Zheng and Chao Wang and Qihang Zhao and Zhixin Zhai and Yang Zhao and Bochao Liu and Jingshan Lv and Xiao Liang and Yuqing Ding and Jing Chen and Chenyi Lei and Wenwu Ou and Han Li and Kun Gai},
+      year={2025},
+      eprint={2509.03236},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2509.03236}, 
+}
+```
+
+### [OneSearch-V2](https://arxiv.org/abs/2603.24422)
+```
+@misc{chen2026onesearchv2latentreasoningenhanced,
+      title={OneSearch-V2: The Latent Reasoning Enhanced Self-distillation Generative Search Framework}, 
+      author={Ben Chen and Siyuan Wang and Yufei Ma and Zihan Liang and Xuxin Zhang and Yue Lv and Ying Yang and Huangyu Dai and Lingtao Mao and Tong Zhao and Zhipeng Qian and Xinyu Sun and Zhixin Zhai and Yang Zhao and Bochao Liu and Jingshan Lv and Xiao Liang and Hui Kong and Jing Chen and Han Li and Chenyi Lei and Wenwu Ou and Kun Gai},
+      year={2026},
+      eprint={2603.24422},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2603.24422}, 
+}
+```
