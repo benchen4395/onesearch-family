@@ -1,6 +1,8 @@
 # OneSearch Family
 
-A collection of training components and data tools for **OneSearch**, a generative retrieval and recommendation system built on large language models. The system maps queries and items to discrete hierarchical **Semantic IDs (SIDs)** and trains an LLM to generate target SIDs end-to-end. The data and code have been anonymized; the complete training and inference code will be provided after company approval.
+- HomePage: https://windsighiii.github.io/OneSearch/
+
+Here is a collection of training components and data tools for **OneSearch**, a generative retrieval and recommendation system built on large language models. The system maps queries and items to discrete hierarchical **Semantic IDs (SIDs)** and trains an LLM to generate target SIDs end-to-end. The data and code have been anonymized; the complete training and inference code will be provided after company approval.
 
 ---
 
