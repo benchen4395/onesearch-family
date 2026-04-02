@@ -185,6 +185,7 @@ Extends standard pairwise DPO to **listwise (S-DPO)** with multiple negatives pe
 ## Data Format Examples
 
 See [`dataset_examples.md`](dataset_examples.md) for input/output examples across all SFT stages.
+- All data can be constructed with our open dataset [KuaiSearch](https://arxiv.org/pdf/2602.11518)
 
 ---
 ## Citation
