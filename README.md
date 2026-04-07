@@ -2,11 +2,12 @@
 
 - HomePage: https://windsighiii.github.io/OneSearch/
 - Corresponding Author: https://benchen4395.github.io/
-- Original Dataset: [KuaiSearch](https://arxiv.org/pdf/2602.11518)
+- Paper: [OneSearch-V1](https://arxiv.org/abs/2509.03236),  [OneSearch-V2](https://arxiv.org/abs/2603.24422)
+- Original Dataset: [KuaiSearch](https://github.com/benchen4395/KuaiSearch)
 
 Here is a collection of training components and data tools for **OneSearch**, a generative retrieval and recommendation system built on large language models. The system maps queries and items to discrete hierarchical **Semantic IDs (SIDs)** and trains an LLM to generate target SIDs end-to-end. The data and code have been released.
 
-If you have any questions, feel free to contact us. 
+If you have any questions, feel free to contact us (benchen4395@gmail.com). 
 
 ---
 
