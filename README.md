@@ -5,7 +5,9 @@
 - Paper: [OneSearch-V1](https://arxiv.org/abs/2509.03236),  [OneSearch-V2](https://arxiv.org/abs/2603.24422)
 - Original Dataset: [KuaiSearch](https://github.com/benchen4395/KuaiSearch)
 
-Here is a collection of training components and data tools for **OneSearch**, a generative retrieval and recommendation system built on large language models. The system maps queries and items to discrete hierarchical **Semantic IDs (SIDs)** and trains an LLM to generate target SIDs end-to-end. The data and code have been released.
+Here is a collection of training components and data tools for **OneSearch**, a generative retrieval and recommendation system built on large language models. The system maps queries and items to discrete hierarchical **Semantic IDs (SIDs)** and trains an LLM to generate target SIDs end-to-end.
+
+-  All codes and data cases have been released.
 
 If you have any questions, feel free to contact us (benchen4395@gmail.com). 
 
@@ -146,6 +148,11 @@ Implements **Joint Self-Distillation Fine-Tuning (Joint SDFT)**, integrated into
 L_total = L_CE(student) + w_teacher * L_CE(teacher) + w_kl * KL(teacher || student)
 ```
 
+**Training shell**:
+```bash
+llamafactory-cli train onesearch_sft_and_sd.yaml
+```
+
 **Training config** (`onesearch_sft_and_sd.yaml`):
 
 ```yaml
@@ -184,6 +191,10 @@ Extends GRPO by decomposing sequence-level reward into **position-level marginal
 
 Extends standard pairwise DPO to **listwise (S-DPO)** with multiple negatives per positive.
 
+**Training shell**:
+```bash
+python train_grpo.py
+```
 
 ---
 
