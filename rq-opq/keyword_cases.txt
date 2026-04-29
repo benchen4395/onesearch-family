@@ -1,0 +1,208 @@
+# 1. ENTITY
+jeans
+shirt
+women's clothing
+base layer top
+snacks
+skirt
+storage rack
+sneakers
+underwear
+knit sweater
+
+# 2. MODIFIER
+loose fit
+dedicated
+high aesthetics
+electric
+mini
+sexy
+comfortable
+automatic
+all-in-one
+multi-layer
+
+# 3. BRAND
+vivo
+iqoo
+Redmi
+Ninebot
+Li-Ning
+Yadea
+BMW
+Niu Scooter
+BYD
+Audi
+
+# 4. MATERIAL
+fleece-lined
+pure cotton
+stainless steel
+genuine leather
+plush
+all cotton
+solid wood
+cotton linen
+canvas
+coral fleece
+
+# 5. STYLE
+fashionable
+retro
+trendy
+stylish
+elegant temperament
+creative
+cartoon
+Japanese style
+streetwear brand
+new Chinese style
+
+# 6. FUNCTION
+waterproof
+sun protection
+wear-resistant
+storage
+height-increasing
+cold-proof
+UV protection
+seamless
+odor-proof
+cleaning
+
+# 7. LOCATION
+Putian
+Northeast China
+Japan
+South Korea
+Germany
+Yunnan
+China
+Sichuan
+Beijing
+Shandong
+
+# 8. AUDIENCE
+women
+men
+girls
+girl (child)
+boys
+elderly
+infant
+boy (child)
+teenager
+adult
+
+# 9. COLOR
+red
+pink
+black
+gray
+green
+blue
+yellow
+black and white
+colorful
+purple
+
+# 10. SCENE
+outdoor
+living room
+bathroom
+office
+balcony
+camping
+in-car
+sports and leisure
+travel
+courtyard
+
+# 11. SPECIFICATIONS
+4-piece set
+full set
+complete set
+2-piece set
+small package
+new version
+gift box
+3-piece set
+boxed
+individual small package
+
+# 12. PRICE
+budget
+affordable
+cheap
+expensive
+premium price
+high-end price
+discounted
+cost-effective
+value for money
+luxury
+
+# 13. MODEL
+17 Pro
+12
+14 Pro
+15 Pro
+13 Pro
+2nd generation
+16 Pro
+312
+16 Pro Max
+15 Pro Max
+
+# 14. ANCHOR
+(sensitive)
+
+# 15. SERIES
+Pro series
+Lite series
+Max series
+Mini series
+Classic series
+Ultra series
+Youth edition
+Standard edition
+Limited edition
+Flagship series
+
+# 16. MARKETING
+latest style
+free shipping
+clearance
+wholesale
+buy one get one free
+free
+new model
+official store
+flash sale
+low price
+
+# 17. SEASON
+winter
+autumn-winter
+spring-autumn
+autumn
+autumn-winter season
+2026 summer
+summer
+spring-autumn season
+spring-autumn style
+autumn-winter style
+
+# 18. PATTERN
+high-waist
+hooded
+short sleeve
+mid-length
+printed
+stand collar
+low-top
+patchwork
+lapel collar
+plaid
+
+
