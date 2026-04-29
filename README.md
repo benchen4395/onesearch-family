@@ -51,7 +51,29 @@ Converts raw embeddings into discrete hierarchical semantic IDs via two sequenti
 
 **Requirements:**
 ```bash
-pip install faiss-cpu numpy pandas tqdm
+pip install faiss-cpu pyahocorasick numpy pandas tqdm 
+```
+
+**Step 0 — Keyword Enhancement (`keyword_enhance.py`)**
+
+Before quantization, raw query/item embeddings are enriched with structured attribute signals from a keyword dictionary covering 18 attribute types (Table 1, `keyword_cases.txt`):
+
+```
+fused_emb = L2_norm( 0.5 × raw_emb + 0.5 × mean(matched_keyword_embs) )
+```
+
+*Table 1. 18 structured attribute types using NER in the e-commerce search platform.*
+
+| | | | | **Attributes** | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Entity | Modifier | Brand | Material | Style | Function | Location | Audience | Color |
+| Scene | Specifications | Price | Model | Anchor | Series | Marketing | Season | Pattern |
+
+```python
+keys, emb_arrays, source_embs, ners = keyword_enhance_emb(
+    infile=query_txt_with_emb, 
+    dict_path=ner_dict_path, 
+    dim=embed_dim)
 ```
 
 **Step 1 — RQ: Residual Quantization (`rq_dynamic.py`)**
