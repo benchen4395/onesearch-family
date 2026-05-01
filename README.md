@@ -1,3 +1,5 @@
+🎉🎉 Congratulation:  [OneSearch](https://arxiv.org/pdf/2509.03236) have been accpeted by ICML'2026 !! 🎉🎉
+
 # OneSearch Family
 
 - HomePage: https://windsighiii.github.io/OneSearch/
@@ -10,8 +12,6 @@ Here is a collection of training components and data tools for **OneSearch**, a 
 -  All codes and data cases have been released.
 
 If you have any questions, feel free to contact us (benchen4395@gmail.com). 
-
----
 
 ## Repository Structure
 
